@@ -1,4 +1,4 @@
-package oo;
+package aula_09;
 
 public class ClientePessoajuridica extends Cliente {
 	private String cnpj;
